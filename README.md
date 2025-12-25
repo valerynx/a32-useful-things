@@ -28,9 +28,9 @@ Community-driven repository containing custom recoveries, ADB/Fastboot installer
 
 
 
-**For get latest OneUI roms check:**
 
 
+**For get latest OneUi roms check:**
 
 **LumiROM Channel:** https://t.me/LumiROMs
 
